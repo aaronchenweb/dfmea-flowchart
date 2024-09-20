@@ -53,7 +53,7 @@ jmexpander {
     position: absolute;
     width: 11px;
     height: 11px;
-    display: none;
+    display: block;
     overflow: hidden;
     line-height: 12px;
     font-size: 10px;
